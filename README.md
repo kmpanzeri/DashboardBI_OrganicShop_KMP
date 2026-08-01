@@ -9,6 +9,13 @@
 👉 **[Ver Dashboard en Looker Studio](https://datastudio.google.com/reporting/e2530bf9-c456-4660-b532-164a5fd68930)**
 
 
+## 📑 Presentación de resultados
+
+Además del dashboard interactivo, este repositorio incluye una **presentación ejecutiva** con el análisis de los principales indicadores, insights y conclusiones obtenidas a partir de los datos.
+
+👉 **[📄 Ver informe de Business Intelligence](docs/informe_bi.pdf)**
+
+
 Dashboard interactivo desarrollado en Looker Studio para el análisis de ventas de un mercado orgánico, con el objetivo de transformar datos en información útil para la toma de decisiones comerciales.
 
 📌 Descripción
