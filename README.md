@@ -1,6 +1,12 @@
 📊 Dashboard de Business Intelligence - Mercado Orgánico
+
 📸 Vista previa
+
 ![Dashboard Principal](images/dashboard_principal.png)
+
+link:
+
+https://datastudio.google.com/reporting/e2530bf9-c456-4660-b532-164a5fd68930
 
 Dashboard interactivo desarrollado en Looker Studio para el análisis de ventas de un mercado orgánico, con el objetivo de transformar datos en información útil para la toma de decisiones comerciales.
 
