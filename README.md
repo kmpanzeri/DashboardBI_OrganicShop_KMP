@@ -53,3 +53,8 @@ Gráfico de torta que muestra la participación de cada producto dentro del tota
 ocio.
 
 El objetivo principal fue construir un dashboard que no solo mostrara información, sino que permitiera explorar los datos mediante filtros interactivos y obtener insights útiles para la gestión comercial de un mercado orgánico.
+
+
+## 📄 Licencia
+
+Este proyecto se distribuye bajo la licencia **MIT**. Consulta el archivo `LICENSE` para más información.
